@@ -2,7 +2,7 @@
 <p align = "center"><a href="https://www.linkedin.com/in/bayer-robert/"> LinkedIn Profile </a><br> P: (706) 457 - 7090 | E: roberto.bearini@gmail.com</p>
 
 <p style = "text-decoration: bold;">
-  __Skills__
+  Skills
 </p>
 
 
