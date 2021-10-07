@@ -1,4 +1,5 @@
-<h1 align = "center"> Hi there 👋</h1>
+<h1 align = "center">Hi there 👋</h1>
+<p align = "center"><a href="https://www.linkedin.com/in/bayer-robert/"> LinkedIn Profile </a></p>
 
 My name is Robert Bayer!
 I am a student at Columbus State University majoriing in Computer Engineering
