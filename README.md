@@ -1,7 +1,7 @@
 <h1 align = "center">Hi there 👋</h1>
 <p align = "center"><a href="https://www.linkedin.com/in/bayer-robert/"> LinkedIn Profile </a><br> P: (706) 457 - 7090 | E: roberto.bearini@gmail.com</p>
 
-<p align = "left"; style = "text-decoration: bold;">
+<p style = "text-decoration: bold;">
   __Skills__
 </p>
 
