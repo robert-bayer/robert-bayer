@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align = "center">### Hi there 👋</p>
 
 My name is Robert Bayer!
 I am a student at Columbus State University majoriing in Computer Engineering
