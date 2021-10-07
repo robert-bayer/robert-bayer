@@ -2,9 +2,9 @@
 <p align = "center"><a href="https://www.linkedin.com/in/bayer-robert/"> LinkedIn Profile </a><br> P: (706) 457 - 7090 | E: roberto.bearini@gmail.com</p>
 
 <p align = "left">
-  <u>Skills</u>
+  __Skills__
 </p>
-  __
+
 
 My name is Robert Bayer!
 I am a student at Columbus State University majoriing in Computer Engineering
