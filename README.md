@@ -1,6 +1,10 @@
 <h1 align = "center">Hi there 👋</h1>
 <p align = "center"><a href="https://www.linkedin.com/in/bayer-robert/"> LinkedIn Profile </a><br> P: (706) 457 - 7090 | E: roberto.bearini@gmail.com</p>
 
+<p align = "right">
+  <u>__Skills__</u>
+</p>
+  __
 
 My name is Robert Bayer!
 I am a student at Columbus State University majoriing in Computer Engineering
