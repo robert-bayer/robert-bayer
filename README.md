@@ -12,8 +12,13 @@
 <h3>Education</h3>
 <hr />
 <dl>
-  <dt>Columbus State University (Columbus, GA)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Graduate in the Class of 2023</dt>
-  <dd>Bachelor of Science in Computer Engineering<br>3.6 GPA<br>Coursework: Computer Science I/II, Calculus I/II/III, Linear Algebra, Chemistry, Physiscs, Statics<br>Honors: Columbus State University Dean's List (2020), Columbus State University President's List (2021)</dd>
+  <dt>Georgia Institute of Technology (Atlanta, GA)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Graduate in the Class of 2025</dt>
+  <dd>Bachelor of Science in Computer Engineering<br>3.5 GPA<br>Coursework: Data Structures and Algorithms, Circuit Analysis, Digital Design and Logic, Statistics for Electrical and Computer Engineering</dd>
+</dl>
+
+<dl>
+  <dt>Columbus State University (Columbus, GA)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Fall 2019 - Spring 2022</dt>
+  <dd>Transfer Studies<br>3.6 GPA<br>Coursework: Computer Science I/II, Calculus I/II/III, Linear Algebra, Chemistry, Physiscs, Statics<br>Honors: Columbus State University Dean's List (2020), Columbus State University President's List (2021)</dd>
 </dl>
 
 <br><br>
