@@ -22,13 +22,13 @@
 <h3>Experiences</h3>
 <hr />
 <dl>
-  <dt>ICL Student Research Engineering Assistant, Georgia Tech Research Institute&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(January 2023 – Present )</dt>
+  <dt>ICL Student Research Engineering Assistant, Georgia Tech Research Institute&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(January 2023 – Present )</dt>
   
   <dd>- Participate in a multitude of projects from low level board and FPGA design to high level software and systems design. See ‘Projects’ &emsp;&emsp;&emsp;&emsp; section in my resume for exhaustive list<br>- Work with FPGA and software designed radios to implement custom and secure waveforms<br>- Engineer and Reverse Engineer a multitude of STM based RF boards<br>- Implementation of optional 5G feature in open source 5G NR project.<br>- Pioneer work on mmWave radar technology for human-system interactions<br></dd>
   
   <br>
   
-  <dt>Senior Design Lab Student Assistant, Georgia Institute of Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(August 2023 – Jan 2024)</dt>
+  <dt>Senior Design Lab Student Assistant, Georgia Institute of Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(August 2023 – Jan 2024)</dt>
   
   <dd>- Lead classes and workshops for various hardware skills such as soldering and using different scopes.<br>- Offered consultations for students working on various design projects on recommendations for hardware.<br>- Worked on 3D printers, fabrication machinery, scopes, and other devices used in all sorts of designs projects.<br></dd>
   
