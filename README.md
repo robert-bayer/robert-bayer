@@ -24,7 +24,7 @@
 <dl>
   <dt>ICL Student Research Engineering Assistant, Georgia Tech Research Institute&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(January 2023 – Present )</dt>
   
-  <dd>- Participate in a multitude of projects from low level board and FPGA design to high level software and systems design. See ‘Projects’ &emsp;&emsp;&emsp;&emsp; section in my resume for exhaustive list<br>- Work with FPGA and software designed radios to implement custom and secure waveforms<br>- Engineer and Reverse Engineer a multitude of STM based RF boards<br>- Implementation of optional 5G feature in open source 5G NR project.<br>- Pioneer work on mmWave radar technology for human-system interactions<br></dd>
+  <dd>- Participate in a multitude of projects from low level board and FPGA design to high level software and systems design. See ‘Projects’ &emsp;&emsp;&emsp;&emsp; section in <a href="https://github.com/robert-bayer/robert-bayer/blob/main/Robert%20Bayer%20Comprehensive%20Resume%20SU25.pdf">my resume</a> for exhaustive list<br>- Work with FPGA and software designed radios to implement custom and secure waveforms<br>- Engineer and Reverse Engineer a multitude of STM based RF boards<br>- Implementation of optional 5G feature in open source 5G NR project.<br>- Pioneer work on mmWave radar technology for human-system interactions<br></dd>
   
   <br>
   
