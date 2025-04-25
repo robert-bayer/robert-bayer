@@ -1,5 +1,5 @@
 <h1 align = "center">Robert Bayer</h1>
-<p align = "center"><a href="https://www.linkedin.com/in/bayer-robert/"> LinkedIn Profile </a><br> P: (706) 457 - 7090 | E: roberto.bearini@gmail.com</p>
+<p align = "center"><a href="https://www.linkedin.com/in/bayer-robert/"> LinkedIn Profile </a><br> P: (706) 457 - 7090 | E: bayerhrobert@gatech.edu</p>
 
 <h3>Skills</h3>
 <hr />
