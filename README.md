@@ -34,7 +34,7 @@ Data Structures & Algorithms • Circuit Analysis • Digital System Design • 
 ## Experience
 
 ### **Georgia Tech Research Institute (GTRI)** — *Atlanta, GA*
-**ICL Embedded System Engineer 1** | *July 2026 – Present*
+**ICL Embedded System Engineer 1** | *July 2025 – Present*
 * Designed schematics and PCB layouts for RF front-end embedded systems operating from **10MHz to 40GHz**.
 * Architected next-generation communication systems for ground and aerial combat platforms.
 * Implemented novel 5G communication algorithms on an open-standard 5G stack.
