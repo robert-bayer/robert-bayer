@@ -1,51 +1,137 @@
 <h1 align = "center">Robert Bayer</h1>
 <p align = "center"><a href="https://www.linkedin.com/in/bayer-robert/"> LinkedIn Profile </a><br> P: (706) 457 - 7090 | E: bayerhrobert@gatech.edu</p>
 
-<h3>Skills</h3>
-<hr />
-<i>Programming</i>: Java (Intermediate), Python (Intermediate), C (Intermediate), Assembly (Advnaced), C++ (Beginner)<br>
-<i>Computer</i>: GitHub, 3D Slicers, Autodesk Inventor, Autodesk AutoCAD, Vivado (Beginner), Cadence, Altium Designer, IDAPro, OllyDBG, x86 Debugger, Intel PIN<br>
-<i>Hardware</i>: Basic Logic Circuit Design, Basic Energy Circuit Design, VHDL, SystemVerilog, Low-Level Driver Design , STM32, mmWave Radar
+# Robert H. Bayer
 
-<br><br>
+**Embedded Systems Software & Firmware Engineer | RF Systems | Forward & Reverse Engineering**  
+Georgia, USA | (706) 457-7090 | [bayerhrobert@gmail.com](mailto:bayerhrobert@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bayer-robert/) | US Citizen | Secret Clearance
 
-<h3>Education</h3>
-<hr />
-<dl>
-  <dt>Georgia Institute of Technology (Atlanta, GA)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Graduate in the Class of 2025</dt>
-  <dd>Bachelor of Science in Computer Engineering<br>3.5 GPA<br>Coursework: Hardware / Software System Programming, Embedded Systems, ADV Computer Architecture, IC Fabrication, VLSI, Statistics for Electrical and Computer Engineering, Malware Reverse Engineering, Hardware/Software Co-Design for Machine Learning</dd>
-</dl>
+---
 
+## Objective
+Computer Engineering Master's student focusing on **Cybersecurity** and **Computing Hardware/Architecture**, currently working as an Embedded Systems Software and Firmware Engineer. Experienced in developing and integrating RF systems operating from **10MHz to 40GHz**. Practiced Forward and Reverse Engineer with an active **Secret Clearance**, seeking projects and opportunities across Hardware, Software, and Firmware domains.
 
-<br><br>
+---
 
-<h3>Experiences</h3>
-<hr />
-<dl>
-  <dt>ICL Student Research Engineering Assistant, Georgia Tech Research Institute&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(January 2023 – Present )</dt>
-  
-  <dd>- Participate in a multitude of projects from low level board and FPGA design to high level software and systems design. See &emsp;&emsp;&emsp;&emsp; ‘Projects’ section in <a href="https://github.com/robert-bayer/robert-bayer/blob/main/Robert%20Bayer%20Comprehensive%20Resume%20SU25.pdf">my resume</a> for exhaustive list<br>- Work with FPGA and software designed radios to implement custom and secure waveforms<br>- Engineer and Reverse Engineer a multitude of STM based RF boards<br>- Implementation of optional 5G feature in open source 5G NR project.<br>- Pioneer work on mmWave radar technology for human-system interactions<br></dd>
-  
-  <br>
-  
-  <dt>Senior Design Lab Student Assistant, Georgia Institute of Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(August 2023 – Jan 2024)</dt>
-  
-  <dd>- Lead classes and workshops for various hardware skills such as soldering and using different scopes.<br>- Offered consultations for students working on various design projects on recommendations for hardware.<br>- Worked on 3D printers, fabrication machinery, scopes, and other devices used in all sorts of designs projects.<br></dd>
-  
-  <br>
+## Education
 
-  
-  <dt>Boy Scouts of America – Eagle Scout &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(October 2012-October 2018)</dt>
-  
-  <dd>- Organized, led, and participated in thousands of hours of community service consisting of organizing the collection and delivery &emsp;&emsp;&emsp; of food for the needy and elderly on the holidays, the design and construction of trails and rest areas, and the organization &emsp;&emsp;&emsp;and execution of several beautification projects of municipalities and businesses<br>- Gained hundreds of hours of leading and management skills from the process of designing, proposing, and execution of my eagle &emsp;&emsp;&emsp;scout project and my various leadership positions held<br>- Attended National Youth Leadership Training to continue to enhance and develop my leadership skills and style<br>- Organizing the lower level of leadership in the troop into a meeting where the future meetings’ topics and activities would be &emsp;&emsp;&emsp;discussed and finalized<br>- Overseeing each and every meeting during my tenure as Senior Patrol Leader to ensure that plans, schedules, and rules were &emsp;&emsp;&emsp;adhered to<br>- Achieved the rank of Eagle Scout in 2018</dd>
-</dl>
-<br><br><br>
+### **Georgia Institute of Technology** — *Atlanta, GA*
+* **Master of Science in Electrical and Computer Engineering** | *Expected May 2027* | **GPA:** 3.8
+* **Bachelor of Science in Computer Engineering** | *May 2025* | **GPA:** 3.5
 
+**Relevant Coursework:**  
+Data Structures & Algorithms • Circuit Analysis • Digital System Design • Foundations of Computer Engineering • Hardware/Software System Programming • Embedded Systems • Advanced Computer Architecture • IC Fabrication • VLSI • Computer Networking • Malware Reverse Engineering • Hardware/Software Co-Design for Machine Learning
 
+---
+
+## Technical Skills
+
+* **Languages:** `C` (Advanced), `Assembly` (Advanced), `Python` (Intermediate), `C++` (Intermediate), `Java` (Intermediate)
+* **Hardware & HDL:** Logic and Power Circuit Design, `VHDL`, `SystemVerilog`, Low-Level Driver Design, `STM32`, mmWave Radar
+* **EDA & CAD Software:** Altium Designer, Cadence, Vivado (Beginner), Autodesk Inventor, Autodesk AutoCAD, 3D Slicers
+* **Reverse Engineering & Dev Tools:** IDA Pro, OllyDBG, x86 Debugger, Intel PIN, GitHub
+* **Professional Organizations:** Institute of Electrical and Electronics Engineers (IEEE), National Society of Professional Engineers (NSPE)
+
+---
+
+## Experience
+
+### **Georgia Tech Research Institute (GTRI)** — *Atlanta, GA*
+**ICL Embedded System Engineer 1** | *July 2026 – Present*
+* Designed schematics and PCB layouts for RF front-end embedded systems operating from **10MHz to 40GHz**.
+* Architected next-generation communication systems for ground and aerial combat platforms.
+* Implemented novel 5G communication algorithms on an open-standard 5G stack.
+* Created a new communication definition standard for wireless protocols and methodologies to streamline Electronic Warfare (EW) technique creation and reverse engineering.
+
+**ICL Student Research Engineering Assistant (Co-Op & Internship)** | *January 2023 – May 2025*
+* Contributed across the full engineering stack—from low-level board and FPGA design to high-level software and systems architecture *(see Projects below)*.
+* Worked with FPGAs and Software-Defined Radios (SDRs) to implement custom, secure waveforms.
+* Engineered and reverse-engineered a variety of STM32-based RF boards.
+* Implemented optional 5G features in an open-source 5G NR project.
+* Conducted pioneering research on mmWave radar technology for human-system interactions.
+
+---
+
+## Projects
+
+### **PCIe/USB 5G Radio Front End** — *Embedded System Engineer*
+*August 2025 – November 2026*
+* Translated theoretical RF chain, power, and control subsystems into production-ready Altium schematics and PCB layouts.
+* Performed hardware bring-up, testing assembled boards for faults, correctness, and signal behavior.
+* Designed a control API to interface with the board and integrate it into a larger radio system.
+
+### **DSL for Comms-Based Pulse Description Language** — *Lead Developer*
+*August 2025 – September 2026*
+* Built a Domain-Specific Language (DSL) enabling human-readable generation of communications streams.
+* Engineered a platform-agnostic, mission-flexible architecture utilizing standard Linux and GNU tooling.
+* Implemented parameter gathering for **Spread Spectrum, LoRa, QPSK, and BPSK** to feed a flexible modulator.
+* Validated integration with the Common Framework Environment and delivered functional Proofs of Concept (PoCs).
+
+### **mmWave Radar Head Tracking** — *Embedded System Engineer*
+*January 2025 – May 2025*
+* Utilized a TI mmWave evaluation board and DCA1000 data capture card to determine optimal radar configurations for facial scans.
+* Trained a Convolutional Neural Network (CNN) on collected radar samples, achieving high tracking accuracy.
+* Designed a custom PCB tailored for seamless integration into an interior automotive dash cam.
+
+### **Software/Malware Reverse Engineering** — *Reverse Engineer*
+*January 2024 – December 2024*
+* Applied static and dynamic analysis techniques in Hex-Rays IDA Pro and OllyDBG to uncover attack vectors and payloads.
+* Reverse-engineered 6 malware samples spanning diverse OS eras and complexities—from *Michelangelo.1* (DOS) to *GreenCat2* (Windows 7).
+* Developed an **IDA Pro plugin** to automate DOT graph generation and an **Intel PIN tool** to automate dynamic binary instrumentation.
+
+### **mmWave Radar Interlock System for UV Exposure Safety** — *Embedded System Designer*
+*December 2024*
+* Created initial system architecture sketches and design specifications.
+* Evaluated commercial radar SoC solutions, procuring and testing an industry-standard mmWave SoC module for integration.
+
+### **Sonar/Thermal Interlock System for UV Exposure Safety** — *Embedded System Designer*
+*October 2024*
+* Designed a sonar-triggered, thermal-imaging safety interlock system.
+* Developed a multi-board hardware mock-up capable of full 360-degree environmental coverage.
+
+### **RF Beam Splitting Board** — *Hardware Engineer*
+*August 2024*
+* Translated preliminary system designs into complete device circuits on a custom PCB.
+* Conducted coupon testing to characterize PCB stack-up and waveguide performance.
+* Utilized time-delay units to steer transmitted RF signals for coherent arrival at designated targets.
+
+### **PCB Reverse Engineering** — *Reverse Engineer & Board Designer*
+*March 2024*
+* Reconstructed a functional replica of an unpowered PCB in Altium Designer using exact or equivalent components.
+* Collaborated with software engineers to design a custom breakout board for target programming and debugging.
+
+### **Adjustable RF/IF Signal Up/Down Converter** — *Test Engineer, Board Designer, HW/SW Engineer*
+*January 2024*
+* Developed an STM32-based control firmware to test individual components across an RF board.
+* Verified device-level and system-wide functionality, implementing necessary hardware revisions in Altium Designer.
+
+### **srsRAN 5G Outer Loop Link Adaptation (OLLA)** — *Lead Developer*
+*January 2024*
+* Integrated the OLLA algorithm into an open-source 5G NR stack.
+* Implemented 5 custom metrics to track and visualize link adaptation performance in real time.
+
+### **Unjamming Signals in Busy Environments (FSL & LMS Filters)** — *Researcher*
+*June 2023*
+* Created technical visuals, system diagrams, and architectural overviews to communicate project goals and methodologies to stakeholders and incoming researchers.
+
+### **SCOMP Clap and Snap Detection Peripheral** — *VHDL Engineer*
+*June 2023*
+* Designed and implemented a VHDL peripheral to process digital audio inputs and detect acoustic transients (claps, snaps, loud noises).
+* Built customizable external interfaces to allow developers to tune detection thresholds.
+
+---
+
+## Leadership & Honor Societies
+* **Eta Kappa Nu (IEEE-HKN)** — *Member & Beta Mu Chapter Sr. Social Chair (3 Years)*
+
+---
+
+Personal Message: 
 My name is Robert Bayer!
 
-I am a graduating senior at The Georgia Institute of Technology where I am majoring in Computer Engineer with concentrations in Cybersecurity, Computing Hardware, and Emerging Architectures.
+I am an Embedded Systems Software/Firmware Engineer and graduate student at The Georgia Institute of Technology where I am persuing a Master in Electrical and Computer Engineering focusing on Cybersecurity, 
+Wired/Wireless Computer Networking, and Digital Signal Processing.
 During my time at Tech, I have found an affinity for Embedded System design and programming as well as FPGA system design and integration.  Additionally, I have found a passion for reverse engineering
-both hardware and software, particulalry malware.  I have experience in PCB design, Intel PIN and HexRays IDAPro.  I program primarily in C with a close second in Python.
+both hardware and software, particulalry malware.  I have experience in PCB design, Intel PIN, and HexRays IDAPro.  I program primarily in C with a close second in Python.
 
 I always look to take on a wide array of projects and I am only satisfied when design requirements and desires are met. No short cuts taken. Let's be creative and make some cool stuff!
